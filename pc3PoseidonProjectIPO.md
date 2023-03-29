@@ -9,28 +9,13 @@
   </thead align="center">
   <tbody align="center">
     <tr>
-      <td> Get login info </td>
-      <td> Validate Login info </td>
-      <td> Show results </td>
+      <td> Any selected foods from the menu </td>
+      <td> List the chosen selections that are available from the menu. </td>
+      <td> Print the result of the selected orders and its price </td>
     </tr>
     <tr>
-      <td> Get user input </td>
-      <td> Create or Read a data file </td>
-      <td> Close program</td>
+      <td>
+      <td> Display the chosen dishes and its price </td>
+      <td> </td>
     </tr>
-    <tr>
-      <td>  </td>
-      <td> Edit and update data file </td>
-      <td>   </td>
-    </tr>
-    <tr>
-      <td>  </td>
-      <td> Add and Remove items in data file </td>
-      <td>  </td>
-    </tr>
-    <tr>
-      <td>  </td>
-      <td> Exit System </td>
-      <td>  </td>
-    </tr>
-  </tbody>
+ <h1 align="center"> Restaurant Sales Receipt </h1>
